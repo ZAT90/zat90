@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zebel-Al Tareq</h1>
-<h3 align="center">Senior Mobile Engineer (React Native & Flutter) | Fintech Specialist</h3>
+<h3 align="center">Senior Mobile Engineer (Flutter & React Native) | Full-Stack Builder</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zebel-al-tareq-6b244890">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=10%2B+Years+of+Mobile+Engineering;Building+Secure+Fintech+Apps;React+Native+%26+Flutter+Expert;Currently+based+in+Phuket,+Thailand" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=10%2B+Years+of+Mobile+Engineering;Flutter+%26+React+Native+Expert;Building+Full-Stack+Solutions;Expanding+into+AI+%26+ML;Based+in+Phuket,+Thailand" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,12 +11,12 @@
 
 ### 👨‍💻 About Me
 
-I am a Mobile App Engineering Expert with **10+ years of experience** building scalable, high-performance Fintech and mobile applications. I specialize in bridging the gap between complex financial logic (KYC, secure transactions) and seamless user experiences.
+I am a Senior Engineering Expert with **10+ years of experience** building scalable, high-performance applications. While my core expertise lies in bridging complex financial logic with seamless mobile experiences, I am actively evolving into a comprehensive technical problem-solver across the entire stack.
 
-- 🔭 **Currently working on:** Leading Flutter/React Native development for **Denning360** and **ReadHero**.
-- 🏦 **Previously:** Architected secure banking solutions and payment flows for **Maybank** and **Allianz**.
-- 💡 **I specialize in:** Clean Architecture, Redux state management, CI/CD automation, and Native Android modules.
-- 🎓 **Education:** M.Sc. in Software Engineering (Universiti Malaya).
+- 🔭 **Currently Building:** A complete end-to-end platform for fitness trainers and gym junkies (Web, Mobile, and Backend) using **React.js and Node.js**, while expanding my capabilities as a Full-Stack Developer.
+- 🌱 **Currently Learning:** The fundamentals of **Machine Learning and AI** to eventually integrate smart, predictive features into modern software.
+- 🏦 **Previously:** Architected secure banking solutions, KYC, and payment flows for **Maybank** and **Allianz**.
+- 💡 **I specialize in:** Clean Architecture, the **Flutter BLoC Pattern**, React Native Redux, CI/CD automation, and Native Android modules.
 - 📫 **Reach me at:** bdzebel@gmail.com
 
 ---
@@ -24,15 +24,19 @@ I am a Mobile App Engineering Expert with **10+ years of experience** building s
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" />
 </p>
