@@ -25,7 +25,7 @@ I am a Senior Engineering Expert with **10+ years of experience** building scala
 
 **📱 Denning360** | *Freelance Mobile Lead (Legal Tech)*
 > Led the end-to-end mobile execution for a comprehensive **law firm management platform**, successfully building and delivering the application from scratch in just **6 months**. Streamlined CI/CD pipelines to ensure rapid, reliable internal deployments.
-> <br> <img src="https://img.shields.io/badge/Internal_Enterprise_App-555555?style=flat-square" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+> <br> <img src="https://img.shields.io/badge/Internal_Enterprise_App-555555?style=flat-square" /> <a href="https://denning.com.my/denningonline/"><img src="https://img.shields.io/badge/Official_Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 
 **📚 MyReadHero** | *Senior Mobile Engineer (EdTech)*
 > Architected and delivered a high-performance **online education platform**. Focused on fluid animations, complex state management, and optimized backend data synchronization for a seamless learning experience.
