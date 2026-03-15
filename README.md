@@ -14,7 +14,7 @@
 I am a Senior Engineering Expert with **10+ years of experience** building scalable, high-performance applications. While my core expertise lies in bridging complex financial logic with seamless mobile experiences, I am actively evolving into a comprehensive technical problem-solver across the entire stack.
 
 - 🔭 **Currently Building:** A complete end-to-end platform for fitness trainers and gym junkies (Web, Mobile, and Backend) using **React.js and Node.js**, while expanding my capabilities as a Full-Stack Developer.
-- 🌱 **Currently Learning:** The fundamentals of **Machine Learning and AI** to eventually integrate smart, predictive features into modern software.
+- 🌱 **Currently Learning:** The fundamentals of **Machine Learning, AI, and Python** to eventually integrate smart, predictive features into modern software.
 - 🏦 **Previously:** Architected secure banking solutions, KYC, and payment flows for **Maybank** and **Allianz**.
 - 💡 **I specialize in:** Clean Architecture, the **Flutter BLoC Pattern**, React Native Redux, CI/CD automation, and Native Android modules.
 - 📫 **Reach me at:** bdzebel@gmail.com
@@ -34,6 +34,7 @@ I am a Senior Engineering Expert with **10+ years of experience** building scala
   <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   <br>
@@ -43,12 +44,9 @@ I am a Senior Engineering Expert with **10+ years of experience** building scala
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <p align="center">
-  <a href="https://github.com/zat90">
-    <img src="https://github-readme-stats.vercel.app/api?username=zat90&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Zebel's GitHub stats" />
-  </a>
   <a href="https://github.com/zat90">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zat90&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
