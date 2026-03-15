@@ -24,16 +24,16 @@ I am a Senior Engineering Expert with **10+ years of experience** building scala
 ### 🚀 Featured Freelance Projects
 
 **📱 Denning360** | *Freelance Mobile Lead (Legal Tech)*
-> Led the end-to-end mobile execution for a comprehensive **law firm management platform**. Achieved 100% sprint completion over 2 years and streamlined CI/CD pipelines, reducing deployment times by 40%.
-> <br> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+> Led the end-to-end mobile execution for a comprehensive **law firm management platform**, successfully building and delivering the application from scratch in just **6 months**. Streamlined CI/CD pipelines to ensure rapid, reliable internal deployments.
+> <br> <img src="https://img.shields.io/badge/Internal_Enterprise_App-555555?style=flat-square" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 
-**📚 ReadHero** | *Senior Mobile Engineer (EdTech)*
+**📚 MyReadHero** | *Senior Mobile Engineer (EdTech)*
 > Architected and delivered a high-performance **online education platform**. Focused on fluid animations, complex state management, and optimized backend data synchronization for a seamless learning experience.
-> <br> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+> <br> <a href="https://apps.apple.com/my/app/myreadhero/id6695759460"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.readheroApp&hl=th"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
 
 **📇 kontactApp** | *Mobile Engineering Lead (Oil & Gas)*
 > Engineered a robust, cross-platform mobile application from the ground up to manage the **contingent workforce in the Oil and Gas industry**. Implemented clean architecture principles to ensure long-term scalability and rapid feature integration.
-> <br> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+> <br> <a href="https://apps.apple.com/mr/app/kontactapp-oil-gas-jobs/id1544030142"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.spsc.kontact.android&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 
 ---
 
