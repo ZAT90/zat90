@@ -13,6 +13,7 @@
 
 I am a Senior Engineering Expert with **10+ years of experience** building scalable, high-performance applications. While my core expertise lies in bridging complex financial logic with seamless mobile experiences, I am actively evolving into a comprehensive technical problem-solver across the entire stack.
 
+- 🧠 **Engineering Philosophy:** In the age of AI, writing code is no longer the bottleneck. The true value lies in **end-to-end product thinking**. I don't just write syntax; I architect holistic solutions, align technical decisions with business goals, and deliver seamless experiences from the database to the UI.
 - 🔭 **Currently Building:** A complete end-to-end platform for fitness trainers and gym junkies (Web, Mobile, and Backend) using **React.js and Node.js**, while expanding my capabilities as a Full-Stack Developer.
 - 🌱 **Currently Learning:** The fundamentals of **Machine Learning, AI, and Python** to eventually integrate smart, predictive features into modern software.
 - 🏦 **Previously:** Architected secure banking solutions, KYC, and payment flows for **Maybank** and **Allianz**.
