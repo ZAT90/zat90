@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zebel-Al Tareq</h1>
-<h3 align="center">Senior Mobile Engineer (Flutter & React Native) | Full-Stack Builder</h3>
+<h3 align="center">Senior Lead Mobile Engineer (Flutter & React Native) | Full-Stack Builder</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zebel-al-tareq-6b244890">
